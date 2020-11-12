@@ -1,6 +1,6 @@
 # Simple Gicar Control Board Replacement 
 
-ADAPTED FROM:[Espresso Machine](https://github.com/nmytilin/SimpleEspressoController/blob/master/README.md) by Anthony DiPilato,
+ADAPTED FROM:[Espresso Machine](https://github.com/AnthonyDipilato/EspressoMachine) by Anthony DiPilato,
 
 Additional details can be found at [http://anthonydipilato.com/2016/07/05/arduino-controlled-espresso-machine/](http://anthonydipilato.com/2016/07/05/arduino-controlled-espresso-machine/)
 
