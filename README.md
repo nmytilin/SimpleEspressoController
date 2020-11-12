@@ -16,8 +16,7 @@ This project involves electricity, high heat, and water/steam. I will not be hel
 - Button triggers water pump and actuated 3way solenoid valve to brew 
 
 ### Author
--Anthony DiPilato, Anthony@bumbol.com (original Author)
--Nick Mytilinaios, (modified version Author)
+Nick Mytilinaios
 
 ### License
 All code is available under the MIT license. See LICENSE file for info.
