@@ -1,7 +1,6 @@
-# Andreja Premium Control Board Replacement 
-![Espresso Machine](http://anthonydipilato.com/wp-content/uploads/2018/03/espresso.png)
+# Simple Gicar Control Board Replacement 
 
-This project replaces the Gicar control board from a Quickmill Andreja Premium with an Arduino Uno, a four channel relay board (3 channels used), and a piezo buzzer. $20 in parts to replace a ~$200 control board.
+ADAPTED FROM:[Espresso Machine](https://github.com/nmytilin/SimpleEspressoController/blob/master/README.md)
 
 Additional details can be found at [http://anthonydipilato.com/2016/07/05/arduino-controlled-espresso-machine/](http://anthonydipilato.com/2016/07/05/arduino-controlled-espresso-machine/)
 
@@ -12,13 +11,13 @@ This project involves electricity, high heat, and water/steam. I will not be hel
 ```
 
 ### Function
-- The arduino monitors the two float switches in the water reservoir and the water level probe in the boiler.
-- Upper float switch triggers audible alarm.
-- Lower switch cuts power to the boiler to protect the heating element from overheating.
-- Water probe triggers the water pump and actuated valve to fill the boiler.
+- The arduino monitors the water level probe in the boiler.
+- Water probe triggers the water pump and actuated 2way solenoid valve to fill the boiler.
+- Button triggers water pump and actuated 3way solenoid valve to brew 
 
 ### Author
-Anthony DiPilato, Anthony@bumbol.com
+Anthony DiPilato, Anthony@bumbol.com (original Author)
+Nick Mytilinaios, (modified version Author)
 
 ### License
 All code is available under the MIT license. See LICENSE file for info.
