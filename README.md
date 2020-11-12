@@ -1,6 +1,6 @@
 # Simple Gicar Control Board Replacement 
 
-ADAPTED FROM:[Espresso Machine](https://github.com/nmytilin/SimpleEspressoController/blob/master/README.md)
+ADAPTED FROM:[Espresso Machine](https://github.com/nmytilin/SimpleEspressoController/blob/master/README.md) by Anthony DiPilato,
 
 Additional details can be found at [http://anthonydipilato.com/2016/07/05/arduino-controlled-espresso-machine/](http://anthonydipilato.com/2016/07/05/arduino-controlled-espresso-machine/)
 
@@ -16,8 +16,8 @@ This project involves electricity, high heat, and water/steam. I will not be hel
 - Button triggers water pump and actuated 3way solenoid valve to brew 
 
 ### Author
-Anthony DiPilato, Anthony@bumbol.com (original Author)
-Nick Mytilinaios, (modified version Author)
+-Anthony DiPilato, Anthony@bumbol.com (original Author)
+-Nick Mytilinaios, (modified version Author)
 
 ### License
 All code is available under the MIT license. See LICENSE file for info.
