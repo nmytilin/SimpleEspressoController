@@ -22,9 +22,5 @@ Nick Mytilinaios
 All code is available under the MIT license. See LICENSE file for info.
 
 
-### Known Issues
- - Pump state logic conflinct between shot and autofill functions
-
-
 
    
