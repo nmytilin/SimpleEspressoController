@@ -162,7 +162,7 @@ void check_button(){
       case 1:
         if(boiler.value == 1){  // Logic check for pump relay
           toggle_pump(0);       // Turn OFF pump before valve
-          toggle_valve(0);b     // Turn off pump before valve
+          toggle_valve(0);     // Turn off pump before valve
         }
           toggle_valve(0);
           break;
